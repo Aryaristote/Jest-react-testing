@@ -18,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>Love in the air</p>
       </header>
     </div>
   );
